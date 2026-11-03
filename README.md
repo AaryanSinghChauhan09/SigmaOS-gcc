@@ -1,36 +1,16 @@
 # SigmaOS-gcc
 
-## Description
+SigmaOS development and system tools component.
 
-Component of the SigmaOS operating system.
+## Features
+- Essential tooling for SigmaOS
+- Configuration management
+- Auto-start capability
 
-## Overview
-
-This repository is part of the SigmaOS project, following modular kernel design principles with clear separation of concerns.
-
-## Status
-
-Under active development.
-
-## Building
-
+## Usage
 ```bash
-# Build instructions coming soon
+cargo run --release
 ```
 
-## Contributing
-
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for contribution guidelines.
-
 ## License
-
-See LICENSE file for details.
-
-## Links
-
-- [SigmaOS Documentation](https://github.com/AaryanSinghChauhan09/SigmaOS-docs)
-- [SigmaOS Wiki](https://github.com/AaryanSinghChauhan09/SigmaOS-wiki/wiki)
-
----
-
-Generated with [Devin](https://devin.ai)
+MIT
