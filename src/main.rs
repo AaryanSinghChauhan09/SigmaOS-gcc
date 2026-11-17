@@ -1,6 +1,6 @@
 //! SigmaOS-gcc — compiler driver binary.
 
-use gcc::{Driver, DriverError};
+use sigmaos_gcc::{Driver, DriverError};
 
 fn main() -> Result<(), DriverError> {
     let argv: Vec<String> = std::env::args().skip(1).collect();
