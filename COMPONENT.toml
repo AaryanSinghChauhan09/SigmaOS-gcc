@@ -3,7 +3,7 @@ name = "SigmaOS-gcc"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gcc component"
+description = "SigmaOS SigmaOS-gcc"
 upstream = []
 
 [contract]
